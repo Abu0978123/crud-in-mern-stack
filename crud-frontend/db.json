@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "Fname": "abubakar0978123@gmail.com",
+      "Lname": "khan@gmail.com",
+      "id": 1
+    },
+    {
+      "Fname": "sdfsodlfdh",
+      "Lname": "khan@gmail.com",
+      "id": 2
+    },
+    {
+      "Fname": "Abu bakar ",
+      "Lname": "Ali khan",
+      "id": 6
+    },
+    {
+      "Fname": "abubakar0978123@gmail.com",
+      "Lname": "khan@gmail.com",
+      "id": 8
+    },
+    {
+      "Fname": "Ali",
+      "Lname": "Wazir",
+      "id": 9
+    }
+  ]
+}
